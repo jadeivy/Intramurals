@@ -1,0 +1,197 @@
+body {
+	margin: 60px;
+	margin-top: 50px;
+	border: 5px solid red;
+}
+
+.all {
+	margin: 30px;
+}
+
+.top {
+	padding: 1px;
+	text-align-last: center;
+	margin-top: 2px;
+}
+
+#date {
+	font-family: sans-serif;
+	font-size: 18px;
+	color: #068987;
+	letter-spacing: 1px;
+	margin-left: 20px;
+}
+
+#intrams {
+	font-size: 140px;
+	font-family: sans-serif;
+	color: #c11717;
+	font-weight: light;
+	letter-spacing: 3px;
+	margin-top: 2px;
+	text-align: center;
+	margin-left: 90px;
+}
+
+header {
+	padding: 250px;
+	background: url(../images/head.jpg);
+	background-size: 1180px;
+	background-repeat: no-repeat;
+	margin-bottom: 20px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.top {
+	grid-template-columns: 1fr 1fr;
+	display: grid;
+	border-top: 5px solid #068987;
+	border-bottom: 5px solid #068987;
+	margin: 20px;
+	margin-bottom: 50px;
+	text-align: right;
+}
+
+.eight {
+	width: 650px; height: 300px;
+	font-family: sans-serif;
+	text-align: right;
+	margin-top: 30px;
+	margin-right: 100px;
+	margin-left: 30px;
+}
+
+#zumba {
+	color: #c11717;
+	font-size: 70px;
+	text-align: right;
+}
+
+p {
+	font-size: 20px;
+}
+
+.nine {
+	padding: 50px;
+	background: url(../images/zumba.jpg);
+	background-size: 300px;
+	background-repeat: no-repeat;
+	margin-left: 0px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.first {
+	grid-template-columns: 1fr 1fr 1fr;
+	display: grid;
+	border-top: 5px solid #068987;
+	border-bottom: 5px solid #068987;
+	margin: 20px;
+}
+
+.one {
+	padding: 30px;
+	background: url(../images/uno.jpg);
+	background-size: 300px;
+	background-repeat: no-repeat;
+	color: black;
+	margin-left: 30px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.seven {
+	padding: 50px;
+	background: url(../images/variety.jpg);
+	background-size: 300px;
+	background-repeat: no-repeat;
+	color: black;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-right: 30px;
+}
+
+.two {
+	width: 500px; height: 300px;
+	text-align: left;
+	margin-top: 30px;
+	font-family: sans-serif;
+}
+
+#day1 {
+	color: #c11717;
+	font-family: sans-serif;
+	font-size: 70px;
+	text-align: left;
+}
+
+.second {
+	grid-template-columns: 1fr 1fr;
+	display: grid;
+	border-top: 5px solid #068987;
+	border-bottom: 5px solid #068987;
+	margin: 20px;
+	margin-top: 50px;
+}
+
+.three {
+	width: 700px; height: 300px;
+	margin-left: 20px;
+	margin-top: 30px;
+	margin-right: 60px;
+	text-align: right;
+	font-family: sans-serif;
+}
+
+#day2 {
+	color: #c11717;
+	font-size: 70px;
+	text-align: right;
+}
+
+.four {
+	padding: 50px;
+	background: url(../images/games.jpg);
+	background-size: 310px;
+	background-repeat: no-repeat;
+	color: black;
+	margin-right: 5px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.third {
+	grid-template-columns: 1fr 1fr;
+	display: grid;
+	border-top: 5px solid #068987;
+	border-bottom: 5px solid #068987;
+	margin: 20px;
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+
+.six {
+	width: 750px; height: 300px;
+	margin-left: 30px;
+	text-align: left;
+	margin-top: 30px;
+	font-family: sans-serif;
+}
+
+#day3 {
+	color: #c11717;
+	font-size: 70px;
+}
+
+.five {
+	padding: 50px;
+	background: url(../images/winners.jpg);
+	background-size: 310px;
+	background-repeat: no-repeat;
+	color: black;
+	margin-left: 20px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
